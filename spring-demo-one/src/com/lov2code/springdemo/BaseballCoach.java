@@ -4,5 +4,5 @@ public class BaseballCoach implements Coach {
 	public String getDailyWorkout() {
 		return "Baseball: Spend 30 mintues on batting practice";
 	}
-
+// baseball class
 }
