@@ -8,5 +8,6 @@ public class MyApp {
 
 		// use the object
 		System.out.println(theCoach.getDailyWorkout());
+		//commit from the laptop done
 	}
 }
